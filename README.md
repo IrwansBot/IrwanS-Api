@@ -3,7 +3,7 @@
 <a href="https://github.com/IrwansBot"><img title="Author" src="https://img.shields.io/badge/Author-IrwanS-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/IrwansBot/followers"><img title="Followers" src="https://img.shields.io/github/followers/iirwansyah1140?color=red&style=flat-square"></a>
+<a href="https://github.com/IrwansBot/followers"><img title="Followers" src="https://img.shields.io/github/followers/IrwansBot?color=red&style=flat-square"></a>
 <a href="https://github.com/IrwansBot/IrwanS-Api/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/IrwansBot/IrwanS-Api?color=blue&style=flat-square"></a>
 <a href="https://github.com/IrwansBot/IrwanS-Api/network/members"><img title="Forks" src="https://img.shields.io/github/forks/IrwansBot/IrwanS-Api?color=red&style=flat-square"></a>
 <a href="https://github.com/IrwansBot/IrwanS-Api/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/IrwansBot/IrwanS-Api?label=Watchers&color=blue&style=flat-square"></a>
@@ -120,4 +120,5 @@ if(apikey != 'MASUKAN_NAMA_APIKEY') return res.json(loghandler.invalidKey)
 
 ### Special Thanks
 <a href="https://github.com/Zhirrr"><img alt="GitHub" src="https://img.shields.io/badge/Zhirrr%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+
 <a href="https://github.com/IrwansBot"><img alt="GitHub" src="https://img.shields.io/badge/IrwanS%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
